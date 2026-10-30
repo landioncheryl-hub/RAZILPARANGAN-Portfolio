@@ -456,7 +456,7 @@ h1 {
     padding-top: 100px;
 }
 
-@media (max-width:412px){
+@media (max-width:720px){
     #Home, #About, #Services, #Contacts, .section, .main {
         width: 100% !important;
         height: auto !important;
